@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/3163782288_2946571163_223132457.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_345352296_4180488206.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_4110074339_474598588.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_3336299237_624039075.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_125286499_4153075130.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_2008760601_2060180949.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_125286499_2715894239.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_253502090_3981093573.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_125286499_4184002794.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_2092257001_9498262.mp4'
+file 'file:/Users/leonardocorreia/Documents/ML/Disciplinas/PCS5042_IA leis fisica_MOR/media/videos/PCS5042_IA leis fisica_MOR/480p15/partial_movie_files/PlotExample/2201830969_190800790_968361521.mp4'
