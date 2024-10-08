@@ -1,0 +1,86 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "editor.codeActionsOnSave": {
+    
+    },
+    "editor.fontFamily": "Fira Code",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+    },
+
+    "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#998f7759",
+    "activityBar.activeBackground": "#b9b9b961",
+    "activityBar.foreground": "#e5701d",
+    "activityBarBadge.background": "#ffcc00",
+    "activityBarBadge.foreground": "#505050"
+    },
+    "workbench.preferredDarkColorTheme": "Min Dark",
+    "workbench.colorTheme": "Min Dark",
+    "terminal.integrated.drawBoldTextInBrightColors": true,
+    
+    "editor.tokenColorCustomizations": {
+    "comments": "#5093b9",
+    "keywords": "#ff760e",
+    "numbers": "#ecec0b",
+    "functions": "#d69e44",
+    "types": "#ff2d2d",
+    "variables": "#66b16ae0",
+    "textMateRules": [
+
+        {
+            "scope": "keyword.operator",
+            "settings": {
+                "foreground": "#cb5d7d"
+            }
+        },
+        {
+            "scope": "source.python",
+            "settings": {
+                "foreground": "#69bb9e"
+            }
+        },
+        {
+            "scope": "string.quoted",
+            "settings": {
+                "foreground": "#a484b8"
+            }
+        },
+        {
+            "scope": "meta.function-call",
+            "settings": {
+                "foreground": "#bc2f4c"
+            }
+        },
+        {
+            "scope": "constant.language",
+            "settings": {
+                "foreground": "#3c7142"
+            }
+        },
+        {
+            "scope": "variable.parameter.function",
+            "settings": {
+                "foreground": "#5962e2"
+            }
+        },
+        {
+            "scope": "string.quoted.docstring.multi",
+            "settings": {
+                "foreground": "#37799f"
+            }
+        }
+    ]
+    },
+
+    "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "notebook.diff.ignoreOutputs": false,
+    "jupyter.exportWithOutputEnabled": true,
+    "jupyter.generateSVGPlots": true,
+    "notebook.output.fontFamily": "Fira Code",
+    "python.analysis.autoImportCompletions": true,
+    
+}
